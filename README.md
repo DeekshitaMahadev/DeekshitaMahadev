@@ -1,4 +1,4 @@
-# GitHub Profile README
+
 
 <h1 align="center">Hi 👋, I'm Deekshita Mahadev Naik</h1>
 
