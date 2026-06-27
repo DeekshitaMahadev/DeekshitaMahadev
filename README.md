@@ -1,27 +1,192 @@
-<h1 align="center">Hi 👋, I'm Deekshita</h1>
-<h3 align="center">Computer Science Student | Aspiring Java Backend Developer</h3>
+<h1 align="center">Hi 👋, I'm Deekshita Mahadev Naik</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deekshitamahadev&label=Profile%20views&color=0e75b6&style=flat" alt="deekshitamahadev" /> </p>
+<h3 align="center">
+Aspiring Java Backend Developer | Spring Boot Enthusiast | Lifelong Learner
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deekshitamahadev" alt="deekshitamahadev" /></a> </p>
-
-- 🌱 I’m currently learning **Spring Boot,Spring Security,DockerHibernate/JPA,REST APIs**
-
-- 📫 How to reach me **deekshitamahadevnaik@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/deekshitamahadev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deekshitamahadev/" height="30" width="40" /></a>
-<a href="https://instagram.com/deekshitamahadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deekshitamahadev" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/deekshita_mahadev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/deekshita_mahadev/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/profile/deekshitamas6zj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/profile/deekshitamas6zj" height="30" width="40" /></a>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Aspiring+Java+Backend+Developer;Building+Scalable+REST+APIs;Always+Learning+Something+New!" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=DeekshitaMahadev&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deekshitamahadev&show_icons=true&locale=en&layout=compact" alt="deekshitamahadev" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deekshitamahadev&show_icons=true&locale=en" alt="deekshitamahadev" /></p>
+# 👩‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deekshitamahadev&" alt="deekshitamahadev" /></p>
+- 🎓 Computer Science Engineering Student
+- ☕ Passionate about Java Backend Development
+- 🌱 Currently learning **Spring Boot, Spring Security, Hibernate/JPA, Docker & REST APIs**
+- 💡 Interested in Backend Development and Scalable Applications
+- 🎨 UI/UX Enthusiast with experience in Figma
+- 📚 Improving my Data Structures & Algorithms skills
+- 🎯 Looking for **Java Backend Developer Internship / Full-Time Opportunities**
+
+---
+
+# 🎯 Career Objective
+
+Passionate Computer Science Engineering student with a strong interest in Java Backend Development. I enjoy building scalable applications, designing RESTful APIs, and continuously improving my problem-solving skills through real-world projects and Data Structures & Algorithms. I am actively seeking opportunities to contribute, learn, and grow as a Java Backend Developer.
+
+---
+
+# 🛠️ Tech Stack
+
+## ☕ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,postman,docker" />
+</p>
+
+- Java
+- Spring Boot
+- Hibernate / JPA
+- MySQL
+- REST APIs
+- Git & GitHub
+- Postman
+- Docker *(Learning)*
+
+---
+
+## 💻 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+- HTML5
+- CSS3
+- JavaScript
+
+---
+
+## 🎨 Design & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma,vscode" />
+</p>
+
+- Figma
+- VS Code
+
+---
+
+# 📚 Currently Learning
+
+- Spring Boot
+- Spring Security
+- Hibernate / JPA
+- Docker
+- REST API Development
+- Data Structures & Algorithms
+
+---
+
+# 📂 Featured Projects
+
+## 📄 Document Management System
+
+A smart document management solution that streamlines document organization, secure storage, classification, and efficient retrieval.
+
+**Tech Stack**
+
+Java • Spring Boot • HTML • CSS • JavaScript • MySQL
+
+---
+
+## 🍽️ Food Waste Management System
+
+A web application that connects food donors with NGOs and volunteers to reduce food wastage and support communities in need.
+
+**Tech Stack**
+
+Java • HTML • CSS • JavaScript • MySQL
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DeekshitaMahadev&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeekshitaMahadev&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DeekshitaMahadev&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=DeekshitaMahadev&theme=tokyonight&margin-w=10&margin-h=10&row=1&column=6"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DeekshitaMahadev&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/deekshitamahadev/" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:deekshitamahadevnaik@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/DeekshitaMahadev">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://leetcode.com/u/deekshita_ma/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💬 Quote
+
+> **"Every expert was once a beginner. Every project is another step toward mastery."**
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+</p>
