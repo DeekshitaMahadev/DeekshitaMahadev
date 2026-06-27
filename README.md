@@ -160,8 +160,10 @@ Full-stack web application connecting food donors with NGOs to reduce food waste
 - 💻 https://github.com/DeekshitaMahadev
 
 # 💬 Quote
-> "Every expert was once a beginner. Every project is another step toward mastery."
-> <p align="center">
+
+> **"Every expert was once a beginner. Every project is another step toward mastery."**
+
+---
 
 ### ⭐ Thanks for visiting my profile!
 
