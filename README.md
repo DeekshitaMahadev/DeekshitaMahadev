@@ -28,15 +28,67 @@
 
 ---
 
-## 🛠️ Tech Stack
+# 🎯 Career Objective
 
-**Backend:** Java • Spring Boot • Hibernate/JPA • MySQL • REST APIs • Git • GitHub • Postman • Docker (Learning)
-
-**Frontend:** HTML • CSS • JavaScript
-
-**Tools:** VS Code • Figma
+Passionate Computer Science Engineering student with a strong interest in Java Backend Development. I enjoy building scalable applications, designing RESTful APIs, and continuously improving my problem-solving skills through real-world projects and Data Structures & Algorithms. I am actively seeking opportunities to contribute, learn, and grow as a Java Backend Developer.
 
 ---
+
+# 🛠️ Tech Stack
+
+## ☕ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,postman,docker" />
+</p>
+
+- Java
+- Spring Boot
+- Hibernate / JPA
+- MySQL
+- REST APIs
+- Git & GitHub
+- Postman
+- Docker *(Learning)*
+
+---
+
+## 💻 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+- HTML5
+- CSS3
+- JavaScript
+
+---
+
+## 🎨 Design & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma,vscode,eclipse,git" />
+</p>
+
+- Figma
+- VS Code
+- Eclipse
+- Git
+
+---
+
+# 📚 Currently Learning
+
+- Spring Boot
+- Spring Security
+- Hibernate / JPA
+- Docker
+- REST API Development
+- Data Structures & Algorithms
+
+---
+
 
 ## 📂 Featured Projects
 
@@ -97,10 +149,24 @@ Full-stack web application connecting food donors with NGOs to reduce food waste
 <img src="https://github-profile-trophy.vercel.app/?username=DeekshitaMahadev&theme=tokyonight"/>
 </p>
 
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DeekshitaMahadev&theme=tokyo-night"/>
+</p>
+
 ## 🌐 Connect With Me
 
 - 📧 deekshitamahadevnaik@gmail.com
 - 💼 https://www.linkedin.com/in/deekshitamahadev/
 - 💻 https://github.com/DeekshitaMahadev
 
+# 💬 Quote
 > "Every expert was once a beginner. Every project is another step toward mastery."
+> <p align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+</p>
