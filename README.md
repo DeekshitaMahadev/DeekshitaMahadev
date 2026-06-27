@@ -1,8 +1,10 @@
-<h1 align="center">Hi 👋, I'm Deekshita Mahadev</h1>
+# GitHub Profile README
 
-<h3 align="center">
-Aspiring Java Backend Developer | Spring Boot Enthusiast | Lifelong Learner
-</h3>
+> Replace your current README with this content.
+
+<h1 align="center">Hi 👋, I'm Deekshita Mahadev Naik</h1>
+
+<h3 align="center">Aspiring Java Backend Developer | Spring Boot Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Aspiring+Java+Backend+Developer;Building+Scalable+REST+APIs;Always+Learning+Something+New!" />
@@ -14,7 +16,7 @@ Aspiring Java Backend Developer | Spring Boot Enthusiast | Lifelong Learner
 
 ---
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
 - 🎓 Computer Science Engineering Student
 - ☕ Passionate about Java Backend Development
@@ -22,173 +24,83 @@ Aspiring Java Backend Developer | Spring Boot Enthusiast | Lifelong Learner
 - 💡 Interested in Backend Development and Scalable Applications
 - 🎨 UI/UX Enthusiast with experience in Figma
 - 📚 Improving my Data Structures & Algorithms skills
-- 🎯 Looking for **Java Backend Developer Internship / Full-Time Opportunities**
+- 🎯 Looking for Java Backend Developer Internship / Full-Time Opportunities
 
 ---
 
-# 🎯 Career Objective
+## 🛠️ Tech Stack
 
-Passionate Computer Science Engineering student with a strong interest in Java Backend Development. I enjoy building scalable applications, designing RESTful APIs, and continuously improving my problem-solving skills through real-world projects and Data Structures & Algorithms. I am actively seeking opportunities to contribute, learn, and grow as a Java Backend Developer.
+**Backend:** Java • Spring Boot • Hibernate/JPA • MySQL • REST APIs • Git • GitHub • Postman • Docker (Learning)
 
----
+**Frontend:** HTML • CSS • JavaScript
 
-# 🛠️ Tech Stack
-
-## ☕ Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,postman,docker" />
-</p>
-
-- Java
-- Spring Boot
-- Hibernate / JPA
-- MySQL
-- REST APIs
-- Git & GitHub
-- Postman
-- Docker *(Learning)*
+**Tools:** VS Code • Figma
 
 ---
 
-## 💻 Frontend
+## 📂 Featured Projects
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
+### 📄 Semantic Document Intelligence System
 
-- HTML5
-- CSS3
-- JavaScript
+Enterprise AI-powered document management system that automates document classification, OCR-based text extraction, translation, summarization, and misfile detection through an intelligent document processing pipeline.
 
----
+**Highlights**
+- 🤖 AI-powered semantic document classification
+- 🔍 OCR support for PDFs, DOCX & Images
+- 🌐 Automatic translation
+- 📝 AI-based document summarization
+- ⚠️ Misfile detection with department recommendations
+- 🔐 Token-based authentication
+- 📊 Interactive analytics dashboard
 
-## 🎨 Design & Tools
+**Tech Stack:** Django • Django REST Framework • React • TypeScript • SQLite • Sentence Transformers • TensorFlow • Tailwind CSS
 
-<p>
-<img src="https://skillicons.dev/icons?i=figma,vscode" />
-</p>
-
-- Figma
-- VS Code
-- Eclipse
-- Git
+**Repository:** https://github.com/DeekshitaMahadev/Project
 
 ---
 
-# 📚 Currently Learning
+### 🍽️ Smart Food Wastage Donation & Tracking System
 
-- Spring Boot
-- Spring Security
-- Hibernate / JPA
-- Docker
-- REST API Development
-- Data Structures & Algorithms
+Full-stack web application connecting food donors with NGOs to reduce food waste through real-time donation tracking, location sharing, notifications, and role-based dashboards.
 
----
+**Highlights**
+- 👤 Donor, NGO & Admin portals
+- 📍 Google Maps integration
+- 📧 Email notifications
+- ⏳ Live expiry countdown
+- 📈 Admin analytics dashboard
+- 🖼️ Image upload support
+- 🔒 Role-based authentication
 
-# 📂 Featured Projects
+**Tech Stack:** PHP • MySQL • HTML • CSS • JavaScript • Bootstrap 5 • Google Maps API
 
-## 📄 Document Management System
-
-A smart document management solution that streamlines document organization, secure storage, classification, and efficient retrieval.
-
-**Tech Stack**
-
-Java • Spring Boot • HTML • CSS • JavaScript • MySQL
+**Repository:** https://github.com/DeekshitaMahadev/food-waste-management
 
 ---
 
-## 🍽️ Food Waste Management System
-
-A web application that connects food donors with NGOs and volunteers to reduce food wastage and support communities in need.
-
-**Tech Stack**
-
-Java • HTML • CSS • JavaScript • MySQL
-
----
-
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=DeekshitaMahadev&show_icons=true&theme=tokyonight"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeekshitaMahadev&layout=compact&theme=tokyonight"/>
-
 </p>
 
----
-
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeekshitaMahadev&theme=tokyonight"/>
-
 </p>
 
----
-
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=DeekshitaMahadev&theme=tokyonight&margin-w=10&margin-h=10&row=1&column=6"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=DeekshitaMahadev&theme=tokyonight"/>
 </p>
 
----
+## 🌐 Connect With Me
 
-# 📈 Contribution Graph
+- 📧 deekshitamahadevnaik@gmail.com
+- 💼 https://www.linkedin.com/in/deekshitamahadev/
+- 💻 https://github.com/DeekshitaMahadev
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DeekshitaMahadev&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/deekshitamahadev/" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:deekshitamahadevnaik@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/DeekshitaMahadev">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://leetcode.com/u/deekshita_ma/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/user/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 💬 Quote
-
-> **"Every expert was once a beginner. Every project is another step toward mastery."**
-
----
-
-<p align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-If you like my work, consider giving a ⭐ to my repositories.
-
-</p>
+> "Every expert was once a beginner. Every project is another step toward mastery."
