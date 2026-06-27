@@ -1,7 +1,5 @@
 # GitHub Profile README
 
-> Replace your current README with this content.
-
 <h1 align="center">Hi 👋, I'm Deekshita Mahadev Naik</h1>
 
 <h3 align="center">Aspiring Java Backend Developer | Spring Boot Enthusiast | Lifelong Learner</h3>
