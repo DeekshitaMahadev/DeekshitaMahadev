@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Deekshita Mahadev </h1>
 
-<h3 align="center">Aspiring Java Backend Developer | Spring Boot Enthusiast | Lifelong Learner</h3>
+<h3 align="center">Aspiring Java Backend Developer | AI Enthisiast| Lifelong Learner</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Aspiring+Java+Backend+Developer;Building+Scalable+REST+APIs;Always+Learning+Something+New!" />
